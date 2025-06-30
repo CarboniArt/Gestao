@@ -6,3 +6,5 @@ public class Main {
         view.setVisible(true);
     }
 }
+
+//iniciamos aqui
