@@ -1,21 +1,16 @@
-# 🧮 Projeto: Calculadora Java
+# 🔢 Projeto: Verificador de Número Primo em Java
 
 ## 📄 Descrição do Projeto
 
-Este projeto consiste em uma **calculadora desenvolvida em Java**, capaz de realizar operações aritméticas básicas como:
+Este projeto consiste em um **verificador de número primo desenvolvido em Java**, capaz de analisar se um número inteiro fornecido pelo usuário é ou não um número primo.
 
-- ➕ Adição  
-- ➖ Subtração  
-- ✖️ Multiplicação  
-- ➗ Divisão  
-
-O objetivo é fornecer uma ferramenta simples e funcional para cálculos do dia a dia, além de reforçar conceitos de programação em Java.
+O objetivo é fornecer uma ferramenta simples, funcional e didática para auxiliar no entendimento dos conceitos matemáticos e de programação relacionados a números primos.
 
 ---
 
 ## 💻 Tecnologias Utilizadas
 
-- **Java**: Linguagem de programação principal utilizada para o desenvolvimento da lógica da calculadora.
+- **Java**: Linguagem de programação principal utilizada para o desenvolvimento da lógica do verificador.
 
 ---
 
