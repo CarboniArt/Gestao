@@ -7,6 +7,14 @@ public class PrimoView extends JFrame {
     private JButton botaoVerificar = new JButton("calcular");
     private JLabel labelResultado = new JLabel("Digite um número acima");
 
+
+    //alterações
+    //alterações
+    //alterações
+    //alterações
+    //alterações
+
+
     public PrimoView() {
         setTitle("PRIMO");
         setSize(280, 150);
@@ -28,7 +36,7 @@ public class PrimoView extends JFrame {
     }
 
     public void setResultado(boolean ehPrimo) {
-        labelResultado.setText(ehPrimo ? "é primo" : "não é primo");
+        labelResultado.setText(ehPrimo ? "é um numero primo" : "não é primo");
     }
 
     public void addVerificarListener(ActionListener listener) {

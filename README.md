@@ -9,3 +9,6 @@
 "- Arthur Linzing" 
 "- Iuri Pedroso"
 "- João Pedro" 
+""
+"## Link trello:"
+"https://trello.com/b/lJWw5Xns/calculadora-gestao-de-projetos"
